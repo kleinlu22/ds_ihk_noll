@@ -1,0 +1,15 @@
+[
+    {"Train Station": "Berlin Hauptbahnhof", "Longitude": 13.369402, "Latitude": 52.525084},
+    {"Train Station": "Berlin Ostkreuz", "Longitude": 13.469326, "Latitude": 52.503153},
+    {"Train Station": "Berlin Ostbahnhof", "Longitude": 13.434553, "Latitude": 52.510534},
+    {"Train Station": "Berlin Südkreuz", "Longitude": 13.365428, "Latitude": 52.475706},
+    {"Train Station": "Berlin Gesundbrunnen", "Longitude": 13.388938, "Latitude": 52.548814},
+    {"Train Station": "Berlin Zoologischer Garten", "Longitude": 13.332367, "Latitude": 52.507334},
+    {"Train Station": "Berlin-Spandau", "Longitude": 13.197884, "Latitude": 52.534559},
+    {"Train Station": "Berlin-Charlottenburg", "Longitude": 13.302653, "Latitude": 52.505017},
+    {"Train Station": "Berlin-Wannsee", "Longitude": 13.179030, "Latitude": 52.421363},
+    {"Train Station": "Berlin-Alexanderplatz", "Longitude": 13.411158, "Latitude": 52.521556},
+    {"Train Station": "Berlin-Friedrichstraße", "Longitude": 13.386978, "Latitude": 52.520289},
+    {"Train Station": "Berlin-Lichtenberg", "Longitude": 13.497257, "Latitude": 52.509558},
+    {"Train Station": "Berlin Brandenburg Airport (BER)", "Longitude": 13.511955, "Latitude": 52.364806}
+]
